@@ -1,0 +1,932 @@
+state,week,diff
+alabama,Week 1,6.0
+alabama,Week 2,5.0
+alabama,Week 3,8.0
+alabama,Week 4,9.0
+alabama,Week 5,8.0
+alabama,Week 6,9.0
+alabama,Week 7,6.0
+alabama,Week 41,0.0
+alabama,Week 42,0.0
+alabama,Week 43,0.0
+alabama,Week 44,1.0
+alabama,Week 45,0.0
+alabama,Week 46,1.0
+alabama,Week 47,-1.0
+alabama,Week 48,0.0
+alabama,Week 49,1.0
+alabama,Week 50,3.0
+alabama,Week 51,6.0
+alabama,Week 52,9.0
+arizona,Week 1,0.0
+arizona,Week 2,-1.0
+arizona,Week 3,-1.0
+arizona,Week 4,-3.0
+arizona,Week 5,-4.0
+arizona,Week 6,-5.0
+arizona,Week 7,-6.0
+arizona,Week 41,-1.0
+arizona,Week 42,-1.0
+arizona,Week 43,-1.0
+arizona,Week 44,-2.0
+arizona,Week 45,-2.0
+arizona,Week 46,-1.0
+arizona,Week 47,-1.0
+arizona,Week 48,-2.0
+arizona,Week 49,-1.0
+arizona,Week 50,0.0
+arizona,Week 51,0.0
+arizona,Week 52,1.0
+arkansas,Week 1,1.0
+arkansas,Week 2,3.0
+arkansas,Week 3,6.0
+arkansas,Week 4,7.0
+arkansas,Week 5,8.0
+arkansas,Week 6,7.0
+arkansas,Week 7,6.0
+arkansas,Week 41,0.0
+arkansas,Week 42,0.0
+arkansas,Week 43,0.0
+arkansas,Week 44,0.0
+arkansas,Week 45,0.0
+arkansas,Week 46,1.0
+arkansas,Week 47,0.0
+arkansas,Week 48,0.0
+arkansas,Week 49,0.0
+arkansas,Week 50,1.0
+arkansas,Week 51,0.0
+arkansas,Week 52,1.0
+california,Week 1,5.0
+california,Week 2,4.0
+california,Week 3,2.0
+california,Week 4,3.0
+california,Week 5,2.0
+california,Week 6,-2.0
+california,Week 7,-3.0
+california,Week 41,0.0
+california,Week 42,0.0
+california,Week 43,0.0
+california,Week 44,0.0
+california,Week 45,0.0
+california,Week 46,1.0
+california,Week 47,2.0
+california,Week 48,1.0
+california,Week 49,1.0
+california,Week 50,2.0
+california,Week 51,4.0
+california,Week 52,4.0
+colorado,Week 1,2.0
+colorado,Week 2,1.0
+colorado,Week 3,3.0
+colorado,Week 4,3.0
+colorado,Week 5,3.0
+colorado,Week 6,2.0
+colorado,Week 7,-3.0
+colorado,Week 41,1.0
+colorado,Week 42,1.0
+colorado,Week 43,0.0
+colorado,Week 44,0.0
+colorado,Week 45,0.0
+colorado,Week 46,0.0
+colorado,Week 47,0.0
+colorado,Week 48,3.0
+colorado,Week 49,1.0
+colorado,Week 50,2.0
+colorado,Week 51,3.0
+colorado,Week 52,-3.0
+connecticut,Week 1,-3.0
+connecticut,Week 2,-3.0
+connecticut,Week 3,-3.0
+connecticut,Week 4,-2.0
+connecticut,Week 5,1.0
+connecticut,Week 6,-1.0
+connecticut,Week 7,0.0
+connecticut,Week 41,0.0
+connecticut,Week 42,0.0
+connecticut,Week 43,0.0
+connecticut,Week 44,0.0
+connecticut,Week 45,0.0
+connecticut,Week 46,0.0
+connecticut,Week 47,0.0
+connecticut,Week 48,0.0
+connecticut,Week 49,0.0
+connecticut,Week 50,-1.0
+connecticut,Week 51,0.0
+connecticut,Week 52,-1.0
+delaware,Week 1,0.0
+delaware,Week 2,0.0
+delaware,Week 3,0.0
+delaware,Week 4,0.0
+delaware,Week 5,0.0
+delaware,Week 6,0.0
+delaware,Week 7,0.0
+delaware,Week 41,0.0
+delaware,Week 42,0.0
+delaware,Week 43,0.0
+delaware,Week 44,0.0
+delaware,Week 45,0.0
+delaware,Week 46,0.0
+delaware,Week 47,0.0
+delaware,Week 48,0.0
+delaware,Week 49,0.0
+delaware,Week 50,0.0
+delaware,Week 51,0.0
+delaware,Week 52,0.0
+district of columbia,Week 1,0.0
+district of columbia,Week 2,0.0
+district of columbia,Week 3,0.0
+district of columbia,Week 4,0.0
+district of columbia,Week 5,0.0
+district of columbia,Week 6,0.0
+district of columbia,Week 7,0.0
+district of columbia,Week 41,0.0
+district of columbia,Week 42,0.0
+district of columbia,Week 43,0.0
+district of columbia,Week 44,0.0
+district of columbia,Week 45,0.0
+district of columbia,Week 46,0.0
+district of columbia,Week 47,0.0
+district of columbia,Week 48,0.0
+district of columbia,Week 49,0.0
+district of columbia,Week 50,0.0
+district of columbia,Week 51,0.0
+district of columbia,Week 52,0.0
+florida,Week 1,1.0
+florida,Week 2,2.0
+florida,Week 3,3.0
+florida,Week 4,1.0
+florida,Week 5,2.0
+florida,Week 6,0.0
+florida,Week 7,-3.0
+florida,Week 41,0.0
+florida,Week 42,0.0
+florida,Week 43,0.0
+florida,Week 44,0.0
+florida,Week 45,0.0
+florida,Week 46,1.0
+florida,Week 47,1.0
+florida,Week 48,0.0
+florida,Week 49,0.0
+florida,Week 50,1.0
+florida,Week 51,1.0
+florida,Week 52,1.0
+georgia,Week 1,5.0
+georgia,Week 2,4.0
+georgia,Week 3,7.0
+georgia,Week 4,6.0
+georgia,Week 5,7.0
+georgia,Week 6,7.0
+georgia,Week 7,5.0
+georgia,Week 41,1.0
+georgia,Week 42,1.0
+georgia,Week 43,2.0
+georgia,Week 44,2.0
+georgia,Week 45,3.0
+georgia,Week 46,3.0
+georgia,Week 47,3.0
+georgia,Week 48,3.0
+georgia,Week 49,4.0
+georgia,Week 50,2.0
+georgia,Week 51,3.0
+georgia,Week 52,6.0
+idaho,Week 1,1.0
+idaho,Week 2,4.0
+idaho,Week 3,5.0
+idaho,Week 4,0.0
+idaho,Week 5,-1.0
+idaho,Week 6,1.0
+idaho,Week 7,0.0
+idaho,Week 41,0.0
+idaho,Week 42,0.0
+idaho,Week 43,0.0
+idaho,Week 44,0.0
+idaho,Week 45,0.0
+idaho,Week 46,0.0
+idaho,Week 47,0.0
+idaho,Week 48,0.0
+idaho,Week 49,0.0
+idaho,Week 50,1.0
+idaho,Week 51,0.0
+idaho,Week 52,3.0
+illinois,Week 1,2.0
+illinois,Week 2,1.0
+illinois,Week 3,1.0
+illinois,Week 4,2.0
+illinois,Week 5,2.0
+illinois,Week 6,3.0
+illinois,Week 7,4.0
+illinois,Week 41,-1.0
+illinois,Week 42,-1.0
+illinois,Week 43,0.0
+illinois,Week 44,-1.0
+illinois,Week 45,0.0
+illinois,Week 46,0.0
+illinois,Week 47,0.0
+illinois,Week 48,-1.0
+illinois,Week 49,-1.0
+illinois,Week 50,0.0
+illinois,Week 51,-1.0
+illinois,Week 52,1.0
+indiana,Week 1,2.0
+indiana,Week 2,2.0
+indiana,Week 3,2.0
+indiana,Week 4,6.0
+indiana,Week 5,9.0
+indiana,Week 6,9.0
+indiana,Week 7,8.0
+indiana,Week 41,0.0
+indiana,Week 42,0.0
+indiana,Week 43,0.0
+indiana,Week 44,0.0
+indiana,Week 45,0.0
+indiana,Week 46,0.0
+indiana,Week 47,0.0
+indiana,Week 48,0.0
+indiana,Week 49,0.0
+indiana,Week 50,0.0
+indiana,Week 51,-1.0
+indiana,Week 52,2.0
+iowa,Week 1,0.0
+iowa,Week 2,0.0
+iowa,Week 3,2.0
+iowa,Week 4,5.0
+iowa,Week 5,4.0
+iowa,Week 6,7.0
+iowa,Week 7,5.0
+iowa,Week 41,0.0
+iowa,Week 42,0.0
+iowa,Week 43,0.0
+iowa,Week 44,0.0
+iowa,Week 45,0.0
+iowa,Week 46,0.0
+iowa,Week 47,0.0
+iowa,Week 48,0.0
+iowa,Week 49,0.0
+iowa,Week 50,0.0
+iowa,Week 51,0.0
+iowa,Week 52,0.0
+kansas,Week 1,3.0
+kansas,Week 2,5.0
+kansas,Week 3,9.0
+kansas,Week 4,9.0
+kansas,Week 5,8.0
+kansas,Week 6,8.0
+kansas,Week 7,6.0
+kansas,Week 41,0.0
+kansas,Week 42,0.0
+kansas,Week 43,0.0
+kansas,Week 44,0.0
+kansas,Week 45,0.0
+kansas,Week 46,0.0
+kansas,Week 47,1.0
+kansas,Week 48,0.0
+kansas,Week 49,0.0
+kansas,Week 50,0.0
+kansas,Week 51,2.0
+kansas,Week 52,2.0
+kentucky,Week 1,2.0
+kentucky,Week 2,5.0
+kentucky,Week 3,8.0
+kentucky,Week 4,9.0
+kentucky,Week 5,8.0
+kentucky,Week 6,8.0
+kentucky,Week 7,7.0
+kentucky,Week 41,0.0
+kentucky,Week 42,0.0
+kentucky,Week 43,1.0
+kentucky,Week 44,0.0
+kentucky,Week 45,0.0
+kentucky,Week 46,1.0
+kentucky,Week 47,1.0
+kentucky,Week 48,2.0
+kentucky,Week 49,0.0
+kentucky,Week 50,1.0
+kentucky,Week 51,6.0
+kentucky,Week 52,7.0
+louisiana,Week 1,5.0
+louisiana,Week 2,4.0
+louisiana,Week 3,5.0
+louisiana,Week 4,6.0
+louisiana,Week 5,7.0
+louisiana,Week 6,6.0
+louisiana,Week 7,6.0
+louisiana,Week 41,0.0
+louisiana,Week 42,-1.0
+louisiana,Week 43,0.0
+louisiana,Week 44,0.0
+louisiana,Week 45,0.0
+louisiana,Week 46,0.0
+louisiana,Week 47,0.0
+louisiana,Week 48,3.0
+louisiana,Week 49,3.0
+louisiana,Week 50,4.0
+louisiana,Week 51,4.0
+louisiana,Week 52,5.0
+maine,Week 1,0.0
+maine,Week 2,0.0
+maine,Week 3,0.0
+maine,Week 4,0.0
+maine,Week 5,0.0
+maine,Week 6,1.0
+maine,Week 7,0.0
+maine,Week 41,0.0
+maine,Week 42,0.0
+maine,Week 43,0.0
+maine,Week 44,0.0
+maine,Week 45,0.0
+maine,Week 46,0.0
+maine,Week 47,0.0
+maine,Week 48,0.0
+maine,Week 49,0.0
+maine,Week 50,0.0
+maine,Week 51,0.0
+maine,Week 52,0.0
+maryland,Week 1,-3.0
+maryland,Week 2,-5.0
+maryland,Week 3,-2.0
+maryland,Week 4,0.0
+maryland,Week 5,3.0
+maryland,Week 6,6.0
+maryland,Week 7,0.0
+maryland,Week 41,0.0
+maryland,Week 42,0.0
+maryland,Week 43,0.0
+maryland,Week 44,0.0
+maryland,Week 45,0.0
+maryland,Week 46,0.0
+maryland,Week 47,-2.0
+maryland,Week 48,-1.0
+maryland,Week 49,-1.0
+maryland,Week 50,-1.0
+maryland,Week 51,-3.0
+maryland,Week 52,-4.0
+massachusetts,Week 1,0.0
+massachusetts,Week 2,0.0
+massachusetts,Week 3,1.0
+massachusetts,Week 4,0.0
+massachusetts,Week 5,2.0
+massachusetts,Week 6,3.0
+massachusetts,Week 7,2.0
+massachusetts,Week 41,0.0
+massachusetts,Week 42,0.0
+massachusetts,Week 43,0.0
+massachusetts,Week 44,0.0
+massachusetts,Week 45,0.0
+massachusetts,Week 46,0.0
+massachusetts,Week 47,0.0
+massachusetts,Week 48,0.0
+massachusetts,Week 49,0.0
+massachusetts,Week 50,0.0
+massachusetts,Week 51,-1.0
+massachusetts,Week 52,0.0
+michigan,Week 1,1.0
+michigan,Week 2,1.0
+michigan,Week 3,2.0
+michigan,Week 4,2.0
+michigan,Week 5,6.0
+michigan,Week 6,6.0
+michigan,Week 7,7.0
+michigan,Week 41,0.0
+michigan,Week 42,0.0
+michigan,Week 43,0.0
+michigan,Week 44,0.0
+michigan,Week 45,0.0
+michigan,Week 46,1.0
+michigan,Week 47,0.0
+michigan,Week 48,0.0
+michigan,Week 49,1.0
+michigan,Week 50,0.0
+michigan,Week 51,1.0
+michigan,Week 52,2.0
+minnesota,Week 1,3.0
+minnesota,Week 2,3.0
+minnesota,Week 3,8.0
+minnesota,Week 4,8.0
+minnesota,Week 5,7.0
+minnesota,Week 6,9.0
+minnesota,Week 7,6.0
+minnesota,Week 41,0.0
+minnesota,Week 42,0.0
+minnesota,Week 43,0.0
+minnesota,Week 44,0.0
+minnesota,Week 45,0.0
+minnesota,Week 46,0.0
+minnesota,Week 47,-1.0
+minnesota,Week 48,0.0
+minnesota,Week 49,-2.0
+minnesota,Week 50,-1.0
+minnesota,Week 51,-4.0
+minnesota,Week 52,1.0
+mississippi,Week 1,2.0
+mississippi,Week 2,3.0
+mississippi,Week 3,4.0
+mississippi,Week 4,2.0
+mississippi,Week 5,8.0
+mississippi,Week 6,7.0
+mississippi,Week 7,6.0
+mississippi,Week 41,0.0
+mississippi,Week 42,0.0
+mississippi,Week 43,1.0
+mississippi,Week 44,2.0
+mississippi,Week 45,1.0
+mississippi,Week 46,-1.0
+mississippi,Week 47,1.0
+mississippi,Week 48,-1.0
+mississippi,Week 49,0.0
+mississippi,Week 50,1.0
+mississippi,Week 51,3.0
+mississippi,Week 52,4.0
+missouri,Week 1,7.0
+missouri,Week 2,6.0
+missouri,Week 3,6.0
+missouri,Week 4,9.0
+missouri,Week 5,9.0
+missouri,Week 6,7.0
+missouri,Week 7,7.0
+missouri,Week 41,0.0
+missouri,Week 42,-1.0
+missouri,Week 43,0.0
+missouri,Week 44,-1.0
+missouri,Week 45,-1.0
+missouri,Week 46,0.0
+missouri,Week 47,-1.0
+missouri,Week 48,1.0
+missouri,Week 49,0.0
+missouri,Week 50,0.0
+missouri,Week 51,1.0
+missouri,Week 52,6.0
+montana,Week 1,0.0
+montana,Week 2,0.0
+montana,Week 3,0.0
+montana,Week 4,0.0
+montana,Week 5,0.0
+montana,Week 6,0.0
+montana,Week 7,0.0
+montana,Week 41,0.0
+montana,Week 42,0.0
+montana,Week 43,0.0
+montana,Week 44,0.0
+montana,Week 45,0.0
+montana,Week 46,0.0
+montana,Week 47,0.0
+montana,Week 48,0.0
+montana,Week 49,0.0
+montana,Week 50,0.0
+montana,Week 51,0.0
+montana,Week 52,0.0
+nebraska,Week 1,0.0
+nebraska,Week 2,1.0
+nebraska,Week 3,5.0
+nebraska,Week 4,4.0
+nebraska,Week 5,7.0
+nebraska,Week 6,8.0
+nebraska,Week 7,5.0
+nebraska,Week 41,0.0
+nebraska,Week 42,0.0
+nebraska,Week 43,0.0
+nebraska,Week 44,0.0
+nebraska,Week 45,0.0
+nebraska,Week 46,0.0
+nebraska,Week 47,0.0
+nebraska,Week 48,0.0
+nebraska,Week 49,0.0
+nebraska,Week 50,0.0
+nebraska,Week 51,0.0
+nebraska,Week 52,0.0
+nevada,Week 1,1.0
+nevada,Week 2,2.0
+nevada,Week 3,0.0
+nevada,Week 4,1.0
+nevada,Week 5,1.0
+nevada,Week 6,-1.0
+nevada,Week 7,-3.0
+nevada,Week 41,0.0
+nevada,Week 42,0.0
+nevada,Week 43,0.0
+nevada,Week 44,0.0
+nevada,Week 45,1.0
+nevada,Week 46,0.0
+nevada,Week 47,1.0
+nevada,Week 48,1.0
+nevada,Week 49,2.0
+nevada,Week 50,1.0
+nevada,Week 51,2.0
+nevada,Week 52,1.0
+new hampshire,Week 1,0.0
+new hampshire,Week 2,0.0
+new hampshire,Week 3,0.0
+new hampshire,Week 4,0.0
+new hampshire,Week 5,0.0
+new hampshire,Week 6,1.0
+new hampshire,Week 7,3.0
+new hampshire,Week 41,0.0
+new hampshire,Week 42,0.0
+new hampshire,Week 43,0.0
+new hampshire,Week 44,0.0
+new hampshire,Week 45,0.0
+new hampshire,Week 46,0.0
+new hampshire,Week 47,0.0
+new hampshire,Week 48,0.0
+new hampshire,Week 49,0.0
+new hampshire,Week 50,0.0
+new hampshire,Week 51,0.0
+new hampshire,Week 52,0.0
+new jersey,Week 1,9.0
+new jersey,Week 2,8.0
+new jersey,Week 3,9.0
+new jersey,Week 4,8.0
+new jersey,Week 5,9.0
+new jersey,Week 6,6.0
+new jersey,Week 7,5.0
+new jersey,Week 41,0.0
+new jersey,Week 42,0.0
+new jersey,Week 43,1.0
+new jersey,Week 44,1.0
+new jersey,Week 45,1.0
+new jersey,Week 46,1.0
+new jersey,Week 47,2.0
+new jersey,Week 48,2.0
+new jersey,Week 49,2.0
+new jersey,Week 50,4.0
+new jersey,Week 51,5.0
+new jersey,Week 52,9.0
+new mexico,Week 1,1.0
+new mexico,Week 2,0.0
+new mexico,Week 3,1.0
+new mexico,Week 4,2.0
+new mexico,Week 5,4.0
+new mexico,Week 6,3.0
+new mexico,Week 7,2.0
+new mexico,Week 41,0.0
+new mexico,Week 42,0.0
+new mexico,Week 43,0.0
+new mexico,Week 44,0.0
+new mexico,Week 45,0.0
+new mexico,Week 46,0.0
+new mexico,Week 47,-2.0
+new mexico,Week 48,0.0
+new mexico,Week 49,0.0
+new mexico,Week 50,-1.0
+new mexico,Week 51,0.0
+new mexico,Week 52,0.0
+new york,Week 1,6.0
+new york,Week 2,9.0
+new york,Week 3,9.0
+new york,Week 4,9.0
+new york,Week 5,9.0
+new york,Week 6,6.0
+new york,Week 7,9.0
+new york,Week 41,0.0
+new york,Week 42,0.0
+new york,Week 43,0.0
+new york,Week 44,0.0
+new york,Week 45,0.0
+new york,Week 46,0.0
+new york,Week 47,0.0
+new york,Week 48,0.0
+new york,Week 49,0.0
+new york,Week 50,0.0
+new york,Week 51,0.0
+new york,Week 52,6.0
+north carolina,Week 1,1.0
+north carolina,Week 2,1.0
+north carolina,Week 3,3.0
+north carolina,Week 4,4.0
+north carolina,Week 5,9.0
+north carolina,Week 6,7.0
+north carolina,Week 7,4.0
+north carolina,Week 41,0.0
+north carolina,Week 42,0.0
+north carolina,Week 43,0.0
+north carolina,Week 44,0.0
+north carolina,Week 45,0.0
+north carolina,Week 46,0.0
+north carolina,Week 47,0.0
+north carolina,Week 48,0.0
+north carolina,Week 49,0.0
+north carolina,Week 50,1.0
+north carolina,Week 51,0.0
+north carolina,Week 52,1.0
+north dakota,Week 1,3.0
+north dakota,Week 2,0.0
+north dakota,Week 3,0.0
+north dakota,Week 4,6.0
+north dakota,Week 5,5.0
+north dakota,Week 6,8.0
+north dakota,Week 7,5.0
+north dakota,Week 41,0.0
+north dakota,Week 42,0.0
+north dakota,Week 43,0.0
+north dakota,Week 44,0.0
+north dakota,Week 45,0.0
+north dakota,Week 46,0.0
+north dakota,Week 47,0.0
+north dakota,Week 48,0.0
+north dakota,Week 49,0.0
+north dakota,Week 50,0.0
+north dakota,Week 51,1.0
+north dakota,Week 52,0.0
+ohio,Week 1,0.0
+ohio,Week 2,0.0
+ohio,Week 3,1.0
+ohio,Week 4,2.0
+ohio,Week 5,0.0
+ohio,Week 6,5.0
+ohio,Week 7,5.0
+ohio,Week 41,0.0
+ohio,Week 42,0.0
+ohio,Week 43,0.0
+ohio,Week 44,0.0
+ohio,Week 45,0.0
+ohio,Week 46,0.0
+ohio,Week 47,0.0
+ohio,Week 48,0.0
+ohio,Week 49,0.0
+ohio,Week 50,0.0
+ohio,Week 51,0.0
+ohio,Week 52,0.0
+oklahoma,Week 1,8.0
+oklahoma,Week 2,7.0
+oklahoma,Week 3,5.0
+oklahoma,Week 4,5.0
+oklahoma,Week 5,5.0
+oklahoma,Week 6,2.0
+oklahoma,Week 7,5.0
+oklahoma,Week 41,0.0
+oklahoma,Week 42,0.0
+oklahoma,Week 43,0.0
+oklahoma,Week 44,0.0
+oklahoma,Week 45,-2.0
+oklahoma,Week 46,2.0
+oklahoma,Week 47,-3.0
+oklahoma,Week 48,0.0
+oklahoma,Week 49,1.0
+oklahoma,Week 50,8.0
+oklahoma,Week 51,3.0
+oklahoma,Week 52,5.0
+oregon,Week 1,9.0
+oregon,Week 2,1.0
+oregon,Week 3,2.0
+oregon,Week 4,3.0
+oregon,Week 5,3.0
+oregon,Week 6,4.0
+oregon,Week 7,0.0
+oregon,Week 41,0.0
+oregon,Week 42,0.0
+oregon,Week 43,0.0
+oregon,Week 44,0.0
+oregon,Week 45,-1.0
+oregon,Week 46,0.0
+oregon,Week 47,-1.0
+oregon,Week 48,0.0
+oregon,Week 49,0.0
+oregon,Week 50,1.0
+oregon,Week 51,2.0
+oregon,Week 52,9.0
+pennsylvania,Week 1,1.0
+pennsylvania,Week 2,2.0
+pennsylvania,Week 3,5.0
+pennsylvania,Week 4,6.0
+pennsylvania,Week 5,7.0
+pennsylvania,Week 6,7.0
+pennsylvania,Week 7,7.0
+pennsylvania,Week 41,0.0
+pennsylvania,Week 42,0.0
+pennsylvania,Week 43,0.0
+pennsylvania,Week 44,0.0
+pennsylvania,Week 45,0.0
+pennsylvania,Week 46,0.0
+pennsylvania,Week 47,0.0
+pennsylvania,Week 48,0.0
+pennsylvania,Week 49,-1.0
+pennsylvania,Week 50,0.0
+pennsylvania,Week 51,-1.0
+pennsylvania,Week 52,1.0
+rhode island,Week 1,1.0
+rhode island,Week 2,1.0
+rhode island,Week 3,1.0
+rhode island,Week 4,4.0
+rhode island,Week 5,5.0
+rhode island,Week 6,8.0
+rhode island,Week 7,7.0
+rhode island,Week 41,0.0
+rhode island,Week 42,0.0
+rhode island,Week 43,0.0
+rhode island,Week 44,0.0
+rhode island,Week 45,0.0
+rhode island,Week 46,0.0
+rhode island,Week 47,0.0
+rhode island,Week 48,0.0
+rhode island,Week 49,0.0
+rhode island,Week 50,0.0
+rhode island,Week 51,0.0
+rhode island,Week 52,0.0
+south carolina,Week 1,8.0
+south carolina,Week 2,8.0
+south carolina,Week 3,8.0
+south carolina,Week 4,9.0
+south carolina,Week 5,6.0
+south carolina,Week 6,5.0
+south carolina,Week 7,5.0
+south carolina,Week 41,0.0
+south carolina,Week 42,-1.0
+south carolina,Week 43,-1.0
+south carolina,Week 44,0.0
+south carolina,Week 45,-3.0
+south carolina,Week 46,-1.0
+south carolina,Week 47,0.0
+south carolina,Week 48,-1.0
+south carolina,Week 49,1.0
+south carolina,Week 50,6.0
+south carolina,Week 51,6.0
+south carolina,Week 52,7.0
+south dakota,Week 1,1.0
+south dakota,Week 2,2.0
+south dakota,Week 3,5.0
+south dakota,Week 4,6.0
+south dakota,Week 5,8.0
+south dakota,Week 6,5.0
+south dakota,Week 7,7.0
+south dakota,Week 41,0.0
+south dakota,Week 42,0.0
+south dakota,Week 43,0.0
+south dakota,Week 44,0.0
+south dakota,Week 45,0.0
+south dakota,Week 46,0.0
+south dakota,Week 47,0.0
+south dakota,Week 48,0.0
+south dakota,Week 49,0.0
+south dakota,Week 50,0.0
+south dakota,Week 51,0.0
+south dakota,Week 52,1.0
+tennessee,Week 1,4.0
+tennessee,Week 2,6.0
+tennessee,Week 3,5.0
+tennessee,Week 4,7.0
+tennessee,Week 5,8.0
+tennessee,Week 6,8.0
+tennessee,Week 7,4.0
+tennessee,Week 41,0.0
+tennessee,Week 42,0.0
+tennessee,Week 43,0.0
+tennessee,Week 44,0.0
+tennessee,Week 45,0.0
+tennessee,Week 46,0.0
+tennessee,Week 47,3.0
+tennessee,Week 48,0.0
+tennessee,Week 49,1.0
+tennessee,Week 50,0.0
+tennessee,Week 51,2.0
+tennessee,Week 52,4.0
+texas,Week 1,-3.0
+texas,Week 2,1.0
+texas,Week 3,2.0
+texas,Week 4,3.0
+texas,Week 5,5.0
+texas,Week 6,3.0
+texas,Week 7,2.0
+texas,Week 41,0.0
+texas,Week 42,0.0
+texas,Week 43,0.0
+texas,Week 44,0.0
+texas,Week 45,-1.0
+texas,Week 46,-1.0
+texas,Week 47,-2.0
+texas,Week 48,-2.0
+texas,Week 49,-2.0
+texas,Week 50,-3.0
+texas,Week 51,-4.0
+texas,Week 52,-5.0
+utah,Week 1,5.0
+utah,Week 2,3.0
+utah,Week 3,3.0
+utah,Week 4,-1.0
+utah,Week 5,-2.0
+utah,Week 6,-3.0
+utah,Week 7,-6.0
+utah,Week 41,0.0
+utah,Week 42,0.0
+utah,Week 43,0.0
+utah,Week 44,-1.0
+utah,Week 45,-1.0
+utah,Week 46,-1.0
+utah,Week 47,-2.0
+utah,Week 48,0.0
+utah,Week 49,0.0
+utah,Week 50,0.0
+utah,Week 51,4.0
+utah,Week 52,5.0
+vermont,Week 1,0.0
+vermont,Week 2,0.0
+vermont,Week 3,0.0
+vermont,Week 4,0.0
+vermont,Week 5,0.0
+vermont,Week 6,0.0
+vermont,Week 7,-1.0
+vermont,Week 41,0.0
+vermont,Week 42,0.0
+vermont,Week 43,0.0
+vermont,Week 44,0.0
+vermont,Week 45,0.0
+vermont,Week 46,0.0
+vermont,Week 47,0.0
+vermont,Week 48,0.0
+vermont,Week 49,0.0
+vermont,Week 50,0.0
+vermont,Week 51,0.0
+vermont,Week 52,0.0
+virginia,Week 1,2.0
+virginia,Week 2,3.0
+virginia,Week 3,2.0
+virginia,Week 4,4.0
+virginia,Week 5,5.0
+virginia,Week 6,7.0
+virginia,Week 7,6.0
+virginia,Week 41,0.0
+virginia,Week 42,-1.0
+virginia,Week 43,0.0
+virginia,Week 44,1.0
+virginia,Week 45,1.0
+virginia,Week 46,0.0
+virginia,Week 47,0.0
+virginia,Week 48,0.0
+virginia,Week 49,-1.0
+virginia,Week 50,0.0
+virginia,Week 51,-1.0
+virginia,Week 52,2.0
+washington,Week 1,2.0
+washington,Week 2,2.0
+washington,Week 3,7.0
+washington,Week 4,3.0
+washington,Week 5,2.0
+washington,Week 6,-1.0
+washington,Week 7,-3.0
+washington,Week 41,0.0
+washington,Week 42,0.0
+washington,Week 43,0.0
+washington,Week 44,0.0
+washington,Week 45,0.0
+washington,Week 46,0.0
+washington,Week 47,0.0
+washington,Week 48,0.0
+washington,Week 49,0.0
+washington,Week 50,0.0
+washington,Week 51,2.0
+washington,Week 52,4.0
+west virginia,Week 1,0.0
+west virginia,Week 2,0.0
+west virginia,Week 3,3.0
+west virginia,Week 4,2.0
+west virginia,Week 5,3.0
+west virginia,Week 6,2.0
+west virginia,Week 7,4.0
+west virginia,Week 41,0.0
+west virginia,Week 42,0.0
+west virginia,Week 43,0.0
+west virginia,Week 44,0.0
+west virginia,Week 45,0.0
+west virginia,Week 46,0.0
+west virginia,Week 47,0.0
+west virginia,Week 48,0.0
+west virginia,Week 49,0.0
+west virginia,Week 50,0.0
+west virginia,Week 51,0.0
+west virginia,Week 52,1.0
+wisconsin,Week 1,0.0
+wisconsin,Week 2,0.0
+wisconsin,Week 3,1.0
+wisconsin,Week 4,2.0
+wisconsin,Week 5,4.0
+wisconsin,Week 6,5.0
+wisconsin,Week 7,4.0
+wisconsin,Week 41,0.0
+wisconsin,Week 42,0.0
+wisconsin,Week 43,0.0
+wisconsin,Week 44,0.0
+wisconsin,Week 45,0.0
+wisconsin,Week 46,0.0
+wisconsin,Week 47,0.0
+wisconsin,Week 48,0.0
+wisconsin,Week 49,0.0
+wisconsin,Week 50,0.0
+wisconsin,Week 51,1.0
+wisconsin,Week 52,1.0
+wyoming,Week 1,1.0
+wyoming,Week 2,6.0
+wyoming,Week 3,4.0
+wyoming,Week 4,6.0
+wyoming,Week 5,9.0
+wyoming,Week 6,8.0
+wyoming,Week 7,6.0
+wyoming,Week 41,0.0
+wyoming,Week 42,0.0
+wyoming,Week 43,0.0
+wyoming,Week 44,0.0
+wyoming,Week 45,0.0
+wyoming,Week 46,0.0
+wyoming,Week 47,0.0
+wyoming,Week 48,0.0
+wyoming,Week 49,0.0
+wyoming,Week 50,0.0
+wyoming,Week 51,1.0
+wyoming,Week 52,0.0
